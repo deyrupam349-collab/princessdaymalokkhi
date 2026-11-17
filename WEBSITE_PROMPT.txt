@@ -1,0 +1,9 @@
+Create a polished, romantic, mobile-first interactive website inspired by the attached reference video. Use an enchanting midnight-purple and pink fairytale aesthetic: deep plum gradient background, glowing stars, crescent moon, pastel-pink castle with lavender roofs, warm golden windows, delicate crown motifs, sparkles, rounded panels, soft glowing pink buttons, and elegant typography (Playfair Display + Great Vibes-style script).
+
+The receiver's exact display name is “My Ma Lokkhi”. The sender's exact display name is “Comfort Zone”. Use these exact names consistently everywhere, including the landing screen, sender/receiver labels, letters, and final screen. Do not substitute “My Love” for the receiver's name. Do not invent personal names, dates, photos, memories, or relationship claims. Use warm, thoughtful, affectionate but respectful wording.
+
+Build seven chapters: (1) royal invitation landing screen reading “For you, My Ma Lokkhi”, with sender/receiver labels and “Open your invitation”; (2) invitation/welcome letter addressed to My Ma Lokkhi; (3) four interactive reason cards that reveal messages on tap; (4) gentle affirmations and keepsake cards; (5) heartfelt note signed “Comfort Zone”; (6) kind wishes; (7) final reveal with “Read it again”.
+
+Include chapter progress, back/next controls, clickable chapter dots, subtle transitions, responsive layout, accessible button labels, and a working replay flow. Every interaction must work. The site must work on mobile and desktop, load quickly, and require no account, database, API key, or paid service.
+
+Deliver a complete Vercel-ready static website with index.html, style.css, and script.js, plus a beginner-friendly README. No placeholders or nonfunctional buttons. Keep “My Ma Lokkhi” as receiver and “Comfort Zone” as sender.
